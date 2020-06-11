@@ -1,0 +1,7 @@
+grass,normal,poison,water,bug
+fire,rock,ground,electric,fire
+ice,ghost,rock,grass,ice
+poison,,ghost,dragon,flying
+flying,,,,ghost
+psychic,,,,
+dragon,,,,
